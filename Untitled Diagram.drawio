@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T20:43:52.465Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="PPAbp8pvNjTWlHNp6fWz" version="17.4.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-05-15T21:21:39.895Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="kSIQ6AA-B6xzxMbwDOZa" version="17.4.5" type="github" pages="5">
   <diagram id="8KKIZeUhTTSI-cBXTdRV" name="Base Figures">
     <mxGraphModel dx="395" dy="222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1863,7 +1863,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xKvVFgl0hwhlsBXJylvk-5" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=15;strokeColor=#6c8ebf;strokeWidth=0;fillColor=#EFF4FC;direction=south;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="639.49" y="297.17" width="166.18" height="162.83" as="geometry" />
+          <mxGeometry x="638.49" y="297.17" width="162.51" height="162.83" as="geometry" />
         </mxCell>
         <mxCell id="xKvVFgl0hwhlsBXJylvk-6" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Contraction&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="634.0799999999999" y="297.17" width="177" height="30" as="geometry" />
